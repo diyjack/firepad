@@ -1,0 +1,16 @@
+{
+  "title": "ddd",
+  "id": 1,
+  "formatVersion": 2,
+  "attr": {
+    "style": {
+      "background": "#800000"
+    }
+  },
+  "ideas": {
+    "1": {
+      "title": "ddddd",
+      "id": 2
+    }
+  }
+}
